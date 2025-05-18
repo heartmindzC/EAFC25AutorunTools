@@ -1,0 +1,8 @@
+D:\EAFC25 AutoRun Tools\Release\net9.0-windows\publish\EAFC25 Modded Autorun Tools.exe
+D:\EAFC25 AutoRun Tools\Release\net9.0-windows\publish\EAFC25 Modded Autorun Tools.dll
+D:\EAFC25 AutoRun Tools\Release\net9.0-windows\publish\EAFC25 Modded Autorun Tools.deps.json
+D:\EAFC25 AutoRun Tools\Release\net9.0-windows\publish\EAFC25 Modded Autorun Tools.runtimeconfig.json
+D:\EAFC25 AutoRun Tools\Release\net9.0-windows\publish\EAFC25 Modded Autorun Tools.pdb
+D:\EAFC25 AutoRun Tools\Release\net9.0-windows\publish\Guna.UI2.dll
+D:\EAFC25 AutoRun Tools\Release\net9.0-windows\publish\System.Management.dll
+D:\EAFC25 AutoRun Tools\Release\net9.0-windows\publish\runtimes\win\lib\net7.0\System.Management.dll

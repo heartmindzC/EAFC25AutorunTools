@@ -1,0 +1,8 @@
+D:\EAFC25 AutoRun Tools\Release\net9.0-windows\FC Universe Auto Tools\FC Universe Auto Tools.exe
+D:\EAFC25 AutoRun Tools\Release\net9.0-windows\FC Universe Auto Tools\FC Universe Auto Tools.dll
+D:\EAFC25 AutoRun Tools\Release\net9.0-windows\FC Universe Auto Tools\FC Universe Auto Tools.deps.json
+D:\EAFC25 AutoRun Tools\Release\net9.0-windows\FC Universe Auto Tools\FC Universe Auto Tools.runtimeconfig.json
+D:\EAFC25 AutoRun Tools\Release\net9.0-windows\FC Universe Auto Tools\FC Universe Auto Tools.pdb
+D:\EAFC25 AutoRun Tools\Release\net9.0-windows\FC Universe Auto Tools\Guna.UI2.dll
+D:\EAFC25 AutoRun Tools\Release\net9.0-windows\FC Universe Auto Tools\System.Management.dll
+D:\EAFC25 AutoRun Tools\Release\net9.0-windows\FC Universe Auto Tools\runtimes\win\lib\net7.0\System.Management.dll
