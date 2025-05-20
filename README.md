@@ -3,7 +3,7 @@ Application shortens the operation of opening and running EAFC25 mods on Windows
 
 ## 🌐 Demo Video (coming soon)
 
-## ✨ Features
+## ✨ Features (Updating by Release Versions)
 - [x] Shortcut run modding programs and editors(FMM and Live Editors).
 - [x] Shortcut find the installation folder location and copy the squads files.
 - [x] Backup and Restore features for FIFA Mod Managers (1.2.1).
